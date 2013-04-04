@@ -4,8 +4,7 @@ CHANGES
 1.0b6 (unreleased)
 ==================
 
-- Nothing changed yet.
-
+- Release 1.0b6 of Obviel.
 
 1.0b5 (2013-01-18)
 ==================
