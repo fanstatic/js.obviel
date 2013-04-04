@@ -6,6 +6,8 @@ CHANGES
 
 - Release 1.0b6 of Obviel.
 
+- Upgrade to buildout 2.0.
+
 1.0b5 (2013-01-18)
 ==================
 
